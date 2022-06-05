@@ -1,2 +1,2 @@
 # Customer-Segmentation
-This Project will segment the customer based on their spending score and their annual income to get insights about customer spending pattern.
+This project will be segmenting the customer based on their spending score and their annual income by which we can get insights about various types of customers in the shopping mall.
